@@ -74,7 +74,7 @@ nav {
 .hero {
   text-align: center;
   padding: 50px 20px;
-  background-image: url("./Hero.svg");
+  background-image: url("./main.png");
   background-size: cover;
   color: white;
 }
@@ -182,7 +182,7 @@ form button:hover {
   align-items: center;
   text-align: center;
   padding: 50px 20px;
- 
+  
   background-size: cover;
   background-position: center;
   height: 80vh;
@@ -578,12 +578,30 @@ footer {
   border-bottom: 1px solid #444;
 }
 
-.footer-logo {
+.footer-logo p span{
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
   flex: 1;
   text-align: left;
   padding-bottom: 20px;
   font-size: 30px;
   color: #aaa;
+}
+.logo{
+  padding-left: 40px;
+}
+.Blacklogo{
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: normal;
+}
+
+span{
+  padding-left: 12px;
 }
 
 .footer-links {
