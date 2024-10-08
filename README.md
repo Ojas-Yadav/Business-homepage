@@ -1,4 +1,4 @@
-# ePixelSoftware Assignment
+# Business homepage
 
 This project is an HTML/CSS/JS-based webpage developed as a submission for an assignment for ePixelSoftware. The page includes a form with input validation and is fully responsive, following the provided design.
 
