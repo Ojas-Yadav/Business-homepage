@@ -1,6 +1,6 @@
 # ePixelSoftware Assignment
 
-This project is an HTML/CSS-based webpage developed as a submission for an assignment for ePixelSoftware. The page includes a form with input validation and is fully responsive, following the provided design.
+This project is an HTML/CSS/JS-based webpage developed as a submission for an assignment for ePixelSoftware. The page includes a form with input validation and is fully responsive, following the provided design.
 
 ## Features
 
@@ -39,5 +39,5 @@ If you'd like to view the project locally, follow these steps:
 
 - **For any questions or feedback, feel free to reach ou**t:
 
-- **Name**: Sonali Singh
-- **Email**: sonalisingh30112001@gmail.com
+- **Name**: Ojas Yadav
+- **Email**: ojasyadav1@gmail.com
