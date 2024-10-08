@@ -12,7 +12,7 @@ This project is an HTML/CSS/JS-based webpage developed as a submission for an as
 ## Deployment
 
 The project is live and can be accessed at the following link:
-[Demo Link](https://sonali-epixelsoftware-assign.netlify.app/#signupForm)
+[Demo Link](https://ojas-yadav.github.io/Business-homepage/)
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ If you'd like to view the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sonalisingh30/epixelsoftware-assign.git
+   git clone https://github.com/Ojas-Yadav/Business-homepage.git
 ## Form Validation
 
 - **The form validation includes**:
